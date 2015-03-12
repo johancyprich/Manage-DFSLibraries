@@ -1,4 +1,4 @@
-*Manage-DFSLibraries*
+<h1>Manage-DFSLibraries</h1>
 
 Version: 1.0.0<br />
 March 12, 2015<br />
